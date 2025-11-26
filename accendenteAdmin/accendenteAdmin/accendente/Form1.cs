@@ -15,22 +15,6 @@ namespace accendente
         public Form1()
         {
             InitializeComponent();
-            LoadTableNames();
-        }
-
-        private void LoadTableNames()
-        {
-            comboBox1.Items.AddRange(new string[] {
-                "Сотрудники",
-                "Должности",
-                "Отделы",
-                "Посещаемость"
-            });
-
-            if (comboBox1.Items.Count > 0)
-            {
-                comboBox1.SelectedIndex = 0;
-            }
         }
 
         private void LoadTableData(string tableName)
