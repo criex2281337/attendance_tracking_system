@@ -1,0 +1,13 @@
+C:\Users\Student2\Documents\accendente\accendente\bin\x64\Debug\bd.accdb
+C:\Users\Student2\Documents\accendente\accendente\bin\x64\Debug\accendente.exe.config
+C:\Users\Student2\Documents\accendente\accendente\bin\x64\Debug\accendente.exe
+C:\Users\Student2\Documents\accendente\accendente\bin\x64\Debug\accendente.pdb
+C:\Users\Student2\Documents\accendente\accendente\obj\x64\Debug\accendente.csproj.AssemblyReference.cache
+C:\Users\Student2\Documents\accendente\accendente\obj\x64\Debug\accendente.Form1.resources
+C:\Users\Student2\Documents\accendente\accendente\obj\x64\Debug\accendente.Login.resources
+C:\Users\Student2\Documents\accendente\accendente\obj\x64\Debug\accendente.Properties.Resources.resources
+C:\Users\Student2\Documents\accendente\accendente\obj\x64\Debug\accendente.Registration.resources
+C:\Users\Student2\Documents\accendente\accendente\obj\x64\Debug\accendente.csproj.GenerateResource.cache
+C:\Users\Student2\Documents\accendente\accendente\obj\x64\Debug\accendente.csproj.CoreCompileInputs.cache
+C:\Users\Student2\Documents\accendente\accendente\obj\x64\Debug\accendente.exe
+C:\Users\Student2\Documents\accendente\accendente\obj\x64\Debug\accendente.pdb
